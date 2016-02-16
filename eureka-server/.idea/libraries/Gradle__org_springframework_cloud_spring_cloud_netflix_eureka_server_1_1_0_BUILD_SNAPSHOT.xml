@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-eureka-server:1.1.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/1.1.0.BUILD-SNAPSHOT/a6151b5b8b77dae95dfc843764cd42e59fe6ddd3/spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/1.1.0.BUILD-SNAPSHOT/705b5acb19e46a12498d51ec75b53241a49d93a5/spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/1.1.0.BUILD-SNAPSHOT/d85167283f467a43911ab0eba6c78b029cdfcae7/spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/1.1.0.BUILD-SNAPSHOT/4ad1c8437503546296fc768b7f56def5658a7af4/spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

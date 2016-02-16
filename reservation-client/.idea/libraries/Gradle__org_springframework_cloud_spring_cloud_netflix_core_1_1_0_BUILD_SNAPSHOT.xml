@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-core:1.1.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.1.0.BUILD-SNAPSHOT/3d9646eb0b4ea755d8aab09a717df1ba2e11a3af/spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.1.0.BUILD-SNAPSHOT/361ca529e60ec7eb840cb3371660a8306e16a75f/spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.1.0.BUILD-SNAPSHOT/2fa1dfe3cc5888e2e090cbeea3b75a923e4467c7/spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.1.0.BUILD-SNAPSHOT/600b0585e5bb3915b3fe1ad351ae786716510b7c/spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
